@@ -35,7 +35,7 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 
 <p align="center">
-  <img src="Screenshots/MainScreen.png" width="620">
+  <img src="Screenshots/MainScreen.png">
 </p>
 
 ---
