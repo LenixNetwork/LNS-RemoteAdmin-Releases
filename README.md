@@ -33,7 +33,10 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ## Main Dashboard
 
-![Main Screen](screenshots/MainScreen.png)
+
+<p align="center">
+  <img src="screenshots/MainScreen.png" width="620">
+</p>
 
 ---
 
