@@ -1,0 +1,73 @@
+# LNS RemoteAdmin - CHANGELOG
+
+## Version 1.0 Community Edition
+
+Initial public Community Edition release.
+
+Features:
+
+* Modern premium dark Lenix UI
+* Multi-host RDP management
+* Quick Connect
+* Ping Selected
+* Ping All
+* Favorites / Star Hosts
+* Customer filtering
+* Search functionality
+* CSV-based host management
+* Add/Edit/Delete hosts
+* Host notes support
+* Live console logging
+* System tray integration
+* About dialog
+* Community Edition branding
+
+RDP Features:
+
+* Fullscreen / Windowed mode
+* Resolution profiles
+* Multi-monitor support
+* Clipboard redirection
+* Drive redirection
+* Printer redirection
+* Audio redirection
+* Admin session support
+* Connection quality profiles
+
+UI Improvements:
+
+* Premium dashboard layout
+* Sidebar navigation
+* Modern toolbar
+* Responsive layout improvements
+* Surface device optimization
+* Dark glass/metal design
+* Improved host details panel
+* Improved table styling
+* Improved About dialog
+
+Build:
+
+* Portable Windows release
+* PyQt6 based
+* Standalone EXE build
+* Includes integrated assets and themes
+
+## Planned Features
+
+* SSH integration
+* Wake-on-LAN
+* Session templates
+* Multi-tab remote sessions
+* Remote tools integration
+* Monitoring improvements
+* Export/import improvements
+* Installer package
+* Auto update system
+* Professional Edition
+
+## Copyright
+
+(c) 2026 Lenix Network Solutions e.U.
+Stevic Vladan
+All rights reserved.
