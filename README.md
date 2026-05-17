@@ -67,7 +67,7 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ## About Dialog
 
-![About](screenshots/About.png)
+![About](Screenshots/About.png)
 
 ---
 
