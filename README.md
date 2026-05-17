@@ -33,7 +33,6 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ## Main Dashboard
 
-
 <p align="center">
   <img src="Screenshots/MainScreen.png">
 </p>
@@ -42,25 +41,27 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ## Quick Connect & Toolbar
 
-![Dropdown](screenshots/MainScreenDropDown.png)
+<p align="center">
+  <img src="Screenshots/MainScreenDropDown.png">
+</p>
 
 ---
 
 ## Host Editing
 
-![Edit Host](screenshots/EditHost.png)
+![Edit Host](Screenshots/EditHost.png)
 
 ---
 
 ## RDP Settings
 
-![RDP Settings](screenshots/RDPSettings.png)
+![RDP Settings](Screenshots/RDPSettings.png)
 
 ---
 
 ## Application Settings
 
-![Settings](screenshots/Settings.png)
+![Settings](Screenshots/Settings.png)
 
 ---
 
