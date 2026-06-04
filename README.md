@@ -10,8 +10,6 @@
 
 If you like this tool, feel free to support:
 
-PayPal https://paypal.me/lenixnetworksolution
-
 ---
 
 <p align="center">
