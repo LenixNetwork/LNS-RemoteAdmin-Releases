@@ -66,37 +66,37 @@ Your data always stays on your system.
 
 ## Main Dashboard
 
-![Main Screen](screeMainScreen.png)
+![Main Screen](Screenshot/MainScreen_01_V1.1.png)
 
 ---
 
 ## Quick Connect & Toolbar
 
-![Dropdown](screenshot/MainScreenDropDown.png)
+![Dropdown](Screenshot/MainScreenDropDown.png)
 
 ---
 
 ## Host Editing
 
-![Edit Host](screenshots/EditHost.png)
+![Edit Host](Screenshots/EditHost.png)
 
 ---
 
 ## RDP Settings
 
-![RDP Settings](screenshots/RDPSettings.png)
+![RDP Settings](Screenshots/RDPSettings.png)
 
 ---
 
 ## Application Settings
 
-![Settings](screenshots/Settings.png)
+![Settings](Screenshots/Settings.png)
 
 ---
 
 ## About Dialog
 
-![About](screenshots/About.png)
+![About](Screenshots/About.png)
 
 ---
 
