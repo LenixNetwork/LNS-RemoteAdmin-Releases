@@ -12,8 +12,6 @@ If you like this tool, feel free to support:
 
 PayPal https://paypal.me/lenixnetworksolution
 
-Bitcoin BC1QJ4LMJ8CG4QJ8GA7AN9YEPRL38UM2M88DGY9SV9
-
 ---
 
 <p align="center">
