@@ -72,7 +72,7 @@ Your data always stays on your system.
 
 ## Quick Connect & Toolbar
 
-![Dropdown](Screenshot/MainScreenDropDown.png)
+![Dropdown](Screenshot/Settings_V1.1.png)
 
 ---
 
