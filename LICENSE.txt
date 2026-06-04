@@ -1,0 +1,89 @@
+# LNS RemoteAdmin Community Edition License
+
+Copyright (c) 2026
+Lenix Network Solutions e.U.
+Stevic Vladan
+
+All rights reserved.
+
+1. COMMUNITY EDITION
+
+---
+
+LNS RemoteAdmin Community Edition is provided free of charge
+for personal, educational and commercial use.
+
+You may:
+
+* Use the software free of charge
+* Share the original unmodified release package
+* Use the software within your company or organization
+
+2. RESTRICTIONS
+
+---
+
+You may NOT:
+
+* Sell the software
+* Rebrand the software
+* Remove branding, logos or copyright notices
+* Redistribute modified versions as official releases
+* Claim the software as your own work
+* Reverse engineer the software for malicious purposes
+
+3. SOURCE CODE
+
+---
+
+The source code and related assets remain the intellectual
+property of Lenix Network Solutions e.U.
+
+Public GitHub repositories or released source code do NOT
+transfer ownership rights.
+
+4. WARRANTY DISCLAIMER
+
+---
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+Lenix Network Solutions e.U. and the author shall not be held
+liable for:
+
+* Data loss
+* Security issues
+* Downtime
+* Damage caused by misuse
+* Indirect or direct damages
+
+5. COMMUNITY EDITION LIMITATIONS
+
+---
+
+Some features may be limited to the Community Edition.
+
+Future Professional or Enterprise editions may include
+additional functionality.
+
+6. CONTACT
+
+---
+
+Website:
+https://www.lenix.at
+
+E-Mail:
+[info@lenix.at](mailto:info@lenix.at)
+
+GitHub:
+https://github.com/LenixNetwork/
+
+7. COPYRIGHT
+
+---
+
+(c) 2026 Lenix Network Solutions e.U.
+Stevic Vladan
+
+All rights reserved.
