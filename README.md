@@ -74,7 +74,7 @@ Your data always stays on your system.
 ## Encryption
 
 
-![Encryption_V1.1](Encryption_V1.1.png)
+![Encryption_V1.1](Screenshots/Encryption_V1.1.png)
 
 ---
 
