@@ -1,7 +1,11 @@
 # LNS RemoteAdmin - Community Edition
 
+## Current Version
+
+**Version 1.1 Community Edition**
+
 <p align="center">
-  <img src="images/lns_logo_full.png" width="620">
+  <img src="assets/logos/lns_logo_full.png" width="620">
 </p>
 
 <p align="center">
@@ -10,22 +14,51 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ---
 
-# Features
+## Features
 
-* Modern premium dark Lenix UI
-* Multi-host RDP management
-* Quick Connect
-* Ping Selected / Ping All
-* Favorites / Star Hosts
-* Customer filtering
-* Search functionality
-* CSV-based host management
-* Host notes support
-* Live console logging
-* System tray integration
-* Per-host RDP settings
-* Portable standalone EXE build
-* Community Edition
+- Modern premium Lenix UI
+- Dark and Light Theme support
+- Live theme switching
+- Multi-host RDP management
+- Quick Connect
+- Ping Selected / Ping All
+- Favorites / Star Hosts
+- Customer filtering
+- Search functionality
+- CSV-based host management
+- Optional encrypted host database
+- Local AES based encryption
+- No password storage
+- Per-host RDP profiles
+- Host notes support
+- Live console logging
+- System tray integration
+- Portable standalone EXE build
+
+---
+
+## Security
+
+LNS RemoteAdmin does not store passwords.
+
+Version 1.1 introduces optional encrypted host database support.
+
+Protected data:
+- IP addresses / FQDN
+- Ports
+- Usernames
+- Customer information
+- Notes
+- RDP settings
+
+Encryption:
+- Local encryption
+- Master password based
+- No cloud dependency
+- No external server
+- Fully portable
+
+Your data always stays on your system.
 
 ---
 
@@ -33,41 +66,37 @@ Modern Remote Desktop Administration Console for Windows IT Professionals, MSPs 
 
 ## Main Dashboard
 
-<p align="center">
-  <img src="Screenshots/MainScreen.png">
-</p>
+![Main Screen](screenshots/MainScreen.png)
 
 ---
 
 ## Quick Connect & Toolbar
 
-<p align="center">
-  <img src="Screenshots/MainScreenDropDown.png">
-</p>
+![Dropdown](screenshots/MainScreenDropDown.png)
 
 ---
 
 ## Host Editing
 
-![Edit Host](Screenshots/EditHost.png)
+![Edit Host](screenshots/EditHost.png)
 
 ---
 
 ## RDP Settings
 
-![RDP Settings](Screenshots/RDPSettings.png)
+![RDP Settings](screenshots/RDPSettings.png)
 
 ---
 
 ## Application Settings
 
-![Settings](Screenshots/Settings.png)
+![Settings](screenshots/Settings.png)
 
 ---
 
 ## About Dialog
 
-![About](Screenshots/About.png)
+![About](screenshots/About.png)
 
 ---
 
