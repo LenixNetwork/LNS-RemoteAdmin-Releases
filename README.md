@@ -5,7 +5,7 @@
 **Version 1.1 Community Edition**
 
 <p align="center">
-  <img src="assets/logos/lns_logo_full.png" width="620">
+  <img src="images/lns_logo_full.png" width="620">
 </p>
 
 <p align="center">
