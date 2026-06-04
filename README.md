@@ -6,9 +6,18 @@
 
 ---
 
-💚 Support the Project
+## 💚 Support the Project
 
-If you like this tool, feel free to support:
+LNS RemoteAdmin Community Edition is free to use.
+
+If this tool helps you or saves you time, you can support future development through GitHub Sponsors.
+
+❤️ Sponsor:
+https://github.com/sponsors/LenixNetwork
+
+⭐ You can also support the project by starring this repository.
+
+Thank you for supporting independent software development.
 
 ---
 
