@@ -71,7 +71,7 @@ Your data always stays on your system.
 
 ---
 
-## Quick Connect & Toolbar
+## Encryption
 
 
 ![Encryption_V1.1](Encryption_V1.1.png)
