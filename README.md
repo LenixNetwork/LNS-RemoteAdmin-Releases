@@ -66,13 +66,15 @@ Your data always stays on your system.
 
 ## Main Dashboard
 
-![Main Screen](Screenshot/MainScreen_01_V1.1.png)
+
+![MainScreen_01_V1.1](Screenshots/MainScreen_01_V1.1.png)
 
 ---
 
 ## Quick Connect & Toolbar
 
-![Dropdown](Screenshot/Settings_V1.1.png)
+
+![Encryption_V1.1](Encryption_V1.1.png)
 
 ---
 
